@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = enrique.altamiros@gmai.com
+	name = Enrique Altamirano
